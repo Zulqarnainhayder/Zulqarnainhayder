@@ -15,7 +15,7 @@
 <div style="height:10px;background:linear-gradient(90deg,#e0eafc,#cfdef3 70%,#e0eafc);margin:32px 0 18px 0;border-radius:5px;"></div>
 
 <blockquote style="font-size:1.1em;background:#f9fafc;padding:1.3em 1.5em;border-left:5px solid #6bc2ff;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:0.8em;">
-I’m a <b>Frontend Developer</b> and <b>QA Automation Engineer</b> with over <b>5+ years</b> of experience building responsive, scalable, and secure web applications using <b>Vue.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Quasar</b>, <b>Django</b>, and <b>Laravel</b>.<br>
+I’m a <b>Full‑Stack Developer</b> with a deep focus on <b>Frontend Engineering</b> and <b>QA Automation Engineer</b> with over <b>5+ years</b> of experience building responsive, scalable, and secure web applications using <b>Vue.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Quasar</b>, <b>Node.js (Express / NestJS)</b>, <b>Django</b>, and <b>Laravel</b>.<br>
 I thrive in Agile environments, collaborate well with cross-functional teams, and emphasize clean code, test coverage, and CI/CD automation.
 </blockquote>
 
