@@ -1,141 +1,99 @@
 <div align="center">
 
-<img src="img.png" width="250" style="border-radius:50%;box-shadow:0 4px 24px rgba(0,0,0,0.18);margin-bottom:18px;animation:fadeIn 1.2s;" alt="Zulqarnain Hayder Avatar" />
+<img src="img.png" width="160" alt="Zulqarnain Hayder" />
 
-<h1 align="center" style="font-size:2.4em; font-weight:bold; margin-bottom:0;">👋 Hi, I'm Zulqarnain Hayder</h1>
+# Zulqarnain Hayder
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Ilmenau,%20Germany-2D9CDB?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <a href="mailto:zhayder816@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-zhayder816@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+4915752849909" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Phone-%2B49%2015752849909-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zulqarnainhayder5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ZulqarnainHayder5-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ZulqarnainHayder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+**AI Engineer · Data Scientist · Full-Stack Developer**
 
-<div style="height:10px;background:linear-gradient(90deg,#e0eafc,#cfdef3 70%,#e0eafc);margin:32px 0 18px 0;border-radius:5px;"></div>
-
-<blockquote style="font-size:1.1em;background:#f9fafc;padding:1.3em 1.5em;border-left:5px solid #6bc2ff;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:0.8em;">
-I’m a <b>Full‑Stack Developer</b> with a deep focus on <b>Frontend Engineering</b> and <b>QA Automation Engineer</b> with over <b>5+ years</b> of experience building responsive, scalable, and secure web applications using <b>Vue.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Quasar</b>, <b>Node.js (Express / NestJS)</b>, <b>Django</b>, and <b>Laravel</b>.<br>
-I thrive in Agile environments, collaborate well with cross-functional teams, and emphasize clean code, test coverage, and CI/CD automation.
-</blockquote>
-
-</div>
-
-<div style="height:10px;background:linear-gradient(90deg,#fbc2eb,#a6c1ee 70%,#fbc2eb);margin:32px 0 18px 0;border-radius:5px;"></div>
-
-<div align="center">
-
-<h2 style="font-size:1.7em;font-weight:bold;">🛠️ Tech Stack</h2>
+Building RAG apps, ML models and production web platforms. Munich, Germany.
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pylenium-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-quicksight&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth-3C5A99?style=flat-square&logo=oauth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Audio/Video-FF4088?style=flat-square&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile/Scrum-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <a href="mailto:zhayder816@gmail.com"><img src="https://img.shields.io/badge/Email-zhayder816%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/zulqarnainhayder5/"><img src="https://img.shields.io/badge/LinkedIn-zulqarnainhayder5-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://citewise-rouge.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-CiteWise-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="CiteWise live demo"/></a>
 </p>
 
 </div>
-
-<div style="height:10px;background:linear-gradient(90deg,#fbc2eb,#a6c1ee 70%,#fbc2eb);margin:32px 0 18px 0;border-radius:5px;"></div>
-
-<h2 align="center" style="font-size:1.7em;font-weight:bold;">🚀 Selected Projects</h2>
-
-| <b>Project</b> | <b>Description</b> | <b>Stack</b> | <b>Role</b> |
-|:--------:|:-------------:|:-------:|:------:|
-| [**Shufti Pro**](https://shuftipro.com) | Identity verification (KYC/KYB/AML) SaaS platform | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> | Frontend & QA |
-| [**Quickbit**](https://app.quickbit.com/login) | AI-based energy analytics dashboard | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | Frontend & QA |
-| [**1Climate**](https://demo.1climate.app/) | Clean energy regulation & incentive manager | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | Frontend |
-| [**TraderSync**](https://tradersync.com/) | Trading journal with performance tracking | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> | Fullstack |
-| [**Huna**](https://mnhuna.com/) | Talent & service matchmaking platform | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> | Fullstack |
-| [**Ibex.ai**](https://ibex.ai/) | AI-driven iGaming retention engine | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> | Frontend |
-| [**NYCIRB Learning Center**](https://www.nycirb.org/learning-center/) | Workers’ comp policy education platform | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/> | Frontend |
-| [**Cercling**](https://cercling.com/) | AI-based social event automation | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> | Frontend |
-| [**CADHunt**](https://www.cadhunt.com/) | Talent recruitment portal for engineers | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> | Frontend |
-| [**iMakeup**](https://imakeup.evotik.com/en) | Virtual makeup try-on and e-commerce portal | <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue.js&logoColor=white"/> | Frontend |
-
-<div style="height:10px;background:linear-gradient(90deg,#e0eafc,#cfdef3 70%,#e0eafc);margin:32px 0 18px 0;border-radius:5px;"></div>
-
-<h2 align="center" style="font-size:1.7em;font-weight:bold;">🧪 Recent Roles</h2>
-
-| <b>Role</b> | <b>Company</b> | <b>Duration</b> | <b>Highlights</b> |
-|:--:|:--:|:--:|:--|
-| Senior Frontend Developer | <a href="https://evotik.com" target="_blank" rel="noopener noreferrer">EVOTIK, Dubai</a> | Feb 2024 – Jan 2025 | Led production-grade Vue/Quasar web apps, CI/CD, QA |
-| Senior Software Engineer | <a href="https://www.intagleo.com/" target="_blank" rel="noopener noreferrer">INTAGLEO SYSTEMS, Pakistan</a> | Oct 2021 – Feb 2024 | Architected React+TS apps, Vue/Vuetify, IoT dashboards, test automation |
-| Frontend Engineer + QA | <a href="https://pf.com.pk/" target="_blank" rel="noopener noreferrer">PROGRAMMER FORCE, Pakistan</a> | Nov 2019 – Oct 2021 | Delivered HRM/Finance apps, Vue/Vuetify, test suites, CI pipelines |
 
 ---
 
-## 🎓 Education & Certifications
+## About
 
-> **M.Sc. in Computer Science**  
-> TU Ilmenau, Germany | <i>2024 – Present</i>
->
-> **B.Sc. in Computer Science**  
-> Garrison University, Lahore | <i>2014 – 2018</i>
->
-> <img src="https://img.shields.io/badge/LeetCode-Top%2020%25-orange?style=flat-square&logo=leetcode&logoColor=white"/> <img src="https://img.shields.io/badge/HackerRank-Top%2020%25-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+Data scientist and full-stack developer with over four years of professional experience, currently doing an M.Sc. in Computer and Systems Engineering (research track) at **TU Ilmenau**.
+
+- **Data and ML:** CNNs for computer vision, time-series forecasting with ARIMA and LSTM, TensorFlow/Keras, scikit-learn, served through Flask and FastAPI.
+- **AI apps:** retrieval-augmented generation with LangChain, LangGraph and pgvector, with citations and an accuracy evaluation.
+- **Web:** React, Vue 3 and TypeScript on the front end, Django, Node.js and PostgreSQL behind it.
+- **Delivery:** I own work end to end: Docker, AWS, CI/CD on GitHub Actions, and automated tests.
+
+---
+
+## Featured AI project
+
+### [CiteWise](https://github.com/Zulqarnainhayder/citewise): chat with your documents, every answer cites its page
+
+<p align="center">
+  <a href="https://citewise-rouge.vercel.app">
+    <img src="https://raw.githubusercontent.com/Zulqarnainhayder/citewise/main/docs/screenshots/chat-citations.png" width="860" alt="CiteWise answering a question across two contracts, with page citations"/>
+  </a>
+</p>
+
+Upload PDFs, ask in English or German, and open the exact page behind every answer with the passage highlighted. It says "I couldn't find that in your documents" instead of guessing.
+
+| | |
+|:--|:--|
+| **Pipeline** | PDF text and OCR, page-aware chunking, Gemini embeddings, hybrid keyword and vector search with reranking, a LangGraph question-answering workflow with streamed answers |
+| **Stack** | Next.js, TypeScript, Supabase (Postgres, pgvector, Auth, Storage), LangChain.js, LangGraph.js, Gemini |
+| **Quality** | Row-level security on every table, per-user usage limits, unit and browser tests, CI, and a 49-question accuracy evaluation (on short fictional documents, so it shows the pipeline works, not how it does on messy real ones) |
+| **Links** | [Live demo](https://citewise-rouge.vercel.app) · [Source](https://github.com/Zulqarnainhayder/citewise) |
+
+## More AI and ML projects
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **YouTube Video Recommendation System** | Recommends videos from user and item data, served by an API with a Streamlit front end | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LightFM](https://img.shields.io/badge/-LightFM-334155?style=flat-square) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Facial Recognition Attendance System** | Marks attendance by recognizing faces from a camera | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white) |
+
+---
+
+## Experience
+
+| Role | Where | When | Highlights |
+|:--|:--|:--|:--|
+| **Intern** | Calvergy UG, Aachen | Oct 2025 – Dec 2025 | Built a full-stack energy optimization platform (React, Next.js, Django REST). Trained and evaluated a CNN in TensorFlow/Keras on a self-built image dataset and served it via Flask. Deployed with Docker, Nginx and GitHub Actions. |
+| **Senior Software Engineer** | Intagleo Systems, Lahore | Oct 2021 – Feb 2024 | Led a team shipping React + TypeScript apps. Real-time IoT monitoring with WebSockets and MQTT. Canvas-based annotation tools. AWS Cognito auth, AWS deployments and CI/CD. Selenium test automation. |
+| **Software Engineer** | Programmer Force, Lahore | Nov 2019 – Oct 2021 | Real-time trading interface (React), Vue 3 portals, a React Native app, Django REST APIs on Docker and Kubernetes. Cut load times by 30% with query caching and indexing. |
+
+## Education
+
+- **M.Sc. Research in Computer and Systems Engineering**, TU Ilmenau, Germany (2025 – present)
+- **B.Sc. Computer Science**, Lahore Garrison University, Pakistan (2014 – 2018)
+- **Certifications:** AWS Certified Cloud Practitioner · Python Basics · Python Data Structures
+
+---
+
+## Skills
+
+| | |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI and ML** | ![LangChain](https://img.shields.io/badge/-LangChain-2e6b6b?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-2e6b6b?style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-2f3a8f?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-3f3f46?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-2d3748?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/-Django-44B78B?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-3f3f46?style=flat-square&logo=flask&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-0f80cc?style=flat-square&logo=sqlite&logoColor=white) |
+| **Cloud and DevOps** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-3f3f46?style=flat-square&logo=vercel&logoColor=white) |
+| **Testing** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) TDD |
+| **Languages spoken** | English (C1) · German (A2) |
 
 ---
 
 <div align="center">
 
-<h2 style="font-size:2.2em;font-weight:bold;">📫 Let's Connect</h2>
+## Let's connect
 
-<blockquote style="font-size:1.1em;background:#f9fafc;padding:1.3em 1.5em;border-left:5px solid #6bc2ff;box-shadow:0 2px 8px rgba(0,0,0,0.04);margin-bottom:0.8em;">
-I’m currently open to <b>remote/hybrid opportunities</b> in <b>Frontend Development</b> or <b>QA Automation</b>.<br>
-Let’s build something great together!
-</blockquote>
+Open to AI engineering, data science and full-stack roles.
 
-<p>
-  <a href="mailto:zhayder816@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-zhayder816@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+4915752849909" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Phone-%2B49%2015752849909-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/ZulqarnainHayder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ZulqarnainHayder-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zulqarnainhayder5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ZulqarnainHayder5-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<a href="mailto:zhayder816@gmail.com"><img src="https://img.shields.io/badge/Email-zhayder816%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/zulqarnainhayder5/"><img src="https://img.shields.io/badge/LinkedIn-zulqarnainhayder5-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
