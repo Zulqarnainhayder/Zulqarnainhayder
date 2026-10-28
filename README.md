@@ -33,12 +33,6 @@ Data scientist and full-stack developer with over four years of professional exp
 
 ### [CiteWise](https://github.com/Zulqarnainhayder/citewise): chat with your documents, every answer cites its page
 
-<p align="center">
-  <a href="https://citewise-rouge.vercel.app">
-    <img src="https://raw.githubusercontent.com/Zulqarnainhayder/citewise/main/docs/screenshots/chat-citations.png" width="860" alt="CiteWise answering a question across two contracts, with page citations"/>
-  </a>
-</p>
-
 Upload PDFs, ask in English or German, and open the exact page behind every answer with the passage highlighted. It says "I couldn't find that in your documents" instead of guessing.
 
 | | |
@@ -47,6 +41,12 @@ Upload PDFs, ask in English or German, and open the exact page behind every answ
 | **Stack** | Next.js, TypeScript, Supabase (Postgres, pgvector, Auth, Storage), LangChain.js, LangGraph.js, Gemini |
 | **Quality** | Row-level security on every table, per-user usage limits, unit and browser tests, CI, and a 49-question accuracy evaluation (on short fictional documents, so it shows the pipeline works, not how it does on messy real ones) |
 | **Links** | [Live demo](https://citewise-rouge.vercel.app) · [Source](https://github.com/Zulqarnainhayder/citewise) |
+
+## Professional AI work
+
+| Project | What I did | Stack |
+|:--|:--|:--|
+| **Image classification model** at Calvergy UG (Oct – Dec 2025) | Built a self-made, labelled and preprocessed image dataset, trained a CNN, then evaluated and tuned it on accuracy, precision, recall and F1. Served the model through a Flask API | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-3f3f46?style=flat-square&logo=flask&logoColor=white) |
 
 ## More AI and ML projects
 
